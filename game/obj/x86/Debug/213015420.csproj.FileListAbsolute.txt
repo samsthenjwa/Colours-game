@@ -1,0 +1,96 @@
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\bin\Debug\213015420.exe
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\bin\Debug\213015420.pdb
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\BackGroundBrushes.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\MainWindow.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\App.baml
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.g.cs
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.g.cs
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.g.cs
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\App.g.cs
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420_MarkupCompile.cache
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.g.resources
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\_213015420.Properties.Resources.resources
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.csproj.GenerateResource.Cache
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.exe
+C:\Users\Mohau Mohokare\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.pdb
+G:\213015420\213015420\213015420\obj\x86\Debug\213015420.exe
+G:\213015420\213015420\213015420\obj\x86\Debug\213015420.pdb
+G:\213015420\213015420\213015420\bin\Debug\213015420.exe
+G:\213015420\213015420\213015420\bin\Debug\213015420.pdb
+G:\213015420\213015420\213015420\obj\x86\Debug\BackGroundBrushes.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\MainWindow.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\App.baml
+G:\213015420\213015420\213015420\obj\x86\Debug\MainWindow.g.cs
+G:\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.g.cs
+G:\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.g.cs
+G:\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.g.cs
+G:\213015420\213015420\213015420\obj\x86\Debug\App.g.cs
+G:\213015420\213015420\213015420\obj\x86\Debug\213015420_MarkupCompile.cache
+G:\213015420\213015420\213015420\obj\x86\Debug\213015420.g.resources
+G:\213015420\213015420\213015420\obj\x86\Debug\_213015420.Properties.Resources.resources
+G:\213015420\213015420\213015420\obj\x86\Debug\213015420.csproj.GenerateResource.Cache
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.exe
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.pdb
+C:\Users\licopen\Desktop\213015420\213015420\213015420\bin\Debug\213015420.exe
+C:\Users\licopen\Desktop\213015420\213015420\213015420\bin\Debug\213015420.pdb
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\BackGroundBrushes.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\MainWindow.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\App.baml
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\MainWindow.g.cs
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.g.cs
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.g.cs
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.g.cs
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\App.g.cs
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420_MarkupCompile.cache
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.g.resources
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\_213015420.Properties.Resources.resources
+C:\Users\licopen\Desktop\213015420\213015420\213015420\obj\x86\Debug\213015420.csproj.GenerateResource.Cache
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\213015420.exe
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\213015420.pdb
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\bin\Debug\213015420.exe
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\bin\Debug\213015420.pdb
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\BackGroundBrushes.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\MainWindow.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\App.baml
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\MainWindow.g.cs
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.g.cs
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.g.cs
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.g.cs
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\App.g.cs
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\213015420_MarkupCompile.cache
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\213015420.g.resources
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\_213015420.Properties.Resources.resources
+H:\OPG30 SEMESTER 1\213015420\213015420\213015420\obj\x86\Debug\213015420.csproj.GenerateResource.Cache
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420.exe
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420.pdb
+H:\213015420\213015420\213015420\bin\Debug\213015420.exe
+H:\213015420\213015420\213015420\bin\Debug\213015420.pdb
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420.csprojResolveAssemblyReference.cache
+H:\213015420\213015420\213015420\obj\x86\Debug\BackGroundBrushes.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\MainWindow.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\App.baml
+H:\213015420\213015420\213015420\obj\x86\Debug\MainWindow.g.cs
+H:\213015420\213015420\213015420\obj\x86\Debug\WBrushesDisplay.g.cs
+H:\213015420\213015420\213015420\obj\x86\Debug\WUserControlStylesDisplay.g.cs
+H:\213015420\213015420\213015420\obj\x86\Debug\YellowBrush.g.cs
+H:\213015420\213015420\213015420\obj\x86\Debug\App.g.cs
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420_MarkupCompile.cache
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420.g.resources
+H:\213015420\213015420\213015420\obj\x86\Debug\_213015420.Properties.Resources.resources
+H:\213015420\213015420\213015420\obj\x86\Debug\213015420.csproj.GenerateResource.Cache

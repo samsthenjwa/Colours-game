@@ -1,0 +1,12 @@
+﻿<!-- Programmer Names: NGEMA SI
+ * Student Number  : 215113721
+ * Assignment Number  : 1
+    -->
+    <Window x:Class="WPFResourceStyles.YellowBrush"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="YellowBrush" Height="300" Width="300">
+    <Grid>
+        <Rectangle Fill="Yellow" Name="YellowColor" Height="224" Width="241" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12" />
+    </Grid>
+</Window>

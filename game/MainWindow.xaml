@@ -1,0 +1,22 @@
+﻿<!-- Programmer Names: NGEMA SI
+ * Student Number  : 215113721
+ * Assignment Number  : 1
+    -->
+<Window x:Class="WPFResourceStyles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="241.772" Width="519.235" WindowStartupLocation="CenterScreen">
+    <Grid Background="Aquamarine" Height="293" Margin="0,0,2,-82" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="65*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <StackPanel  Height="85" HorizontalAlignment="Left" Name="stackPanel1" VerticalAlignment="Top" Width="270"
+                    Margin="126,0,0,0" >
+            <TextBlock Height="28" x:Name="textBlock1" Text="Welcome to Color App " Margin="40,40,26,40" TextAlignment="Center" FontFamily="Footlight MT" FontSize="18" Width="204" FontWeight="Bold" FontStyle="Normal" />
+
+        </StackPanel>
+        <Button Background="BlueViolet" Content="SHOW COLOURS" Name="btnSolidBrush" Margin="160,123,156,90" FlowDirection="RightToLeft" Click="btnSolidBrush_Click_1"  />
+        <Button Background="BlueViolet" Content="SHOW STYLES" Height="47" HorizontalAlignment="Left" Margin="91,71,0,0" Name="buttonStyle" VerticalAlignment="Top" Width="338" Click="buttonStyle_Click_1" />
+    </Grid>
+</Window>

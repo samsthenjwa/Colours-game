@@ -1,0 +1,64 @@
+﻿<!-- Programmer Names: NGEMA SI
+ * Student Number  : 215113721
+ * Assignment Number  : 1
+    -->
+<Window x:Class="WPFResourceStyles.WBrushesDisplay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WBrushesDisplayxaml" Height="400" Width="600" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle Name="Rectangle1" Margin="24,53,0,209" Fill="Red" Width="105" HorizontalAlignment="Left" MouseLeftButtonDown="Rectangle1_MouseLeftButtonDown" />
+        <Button Background="Blue" Height="31" HorizontalAlignment="Left" Margin="143,53,0,0" Name="Button1" Content="" VerticalAlignment="Top" Width="37" Click="button1_Click" />
+        <Button Background="Purple" Height="31" HorizontalAlignment="Left" Margin="143,88,0,0" Name="Button2" Content="" VerticalAlignment="Top" Width="37" Click="button2_Click" />
+        <Button Background="Yellow" Height="31" Margin="135,125,400,0" Name="Button3" Content="" VerticalAlignment="Top" Width="37" Click="button3_Click" RenderTransformOrigin="0.082,0.479" />
+        <Rectangle Name="Rectangle2" Margin="210,52,264,209" Width="Auto" Height="Auto" Fill="{StaticResource Rectangle2_Bckgrnd}" MouseLeftButtonDown="Rectangle2_MouseLeftButtonDown" />
+        <Button Height="31" HorizontalAlignment="Left" Margin="345,53,0,0" Name="Button4" Content="" VerticalAlignment="Top" Width="37" Click="Button4_Click" Background="{StaticResource btnPurpleBlue}" />
+        <Button Height="31" HorizontalAlignment="Left" Margin="345,88,0,0" Name="Button5" Content="" VerticalAlignment="Top"  Width="37" Click="Button5_Click" Background="{StaticResource btn5_Colors}"/>
+        <Button Height="31" HorizontalAlignment="Left" Margin="346,0,0,205" Name="Button6" Content="" VerticalAlignment="Bottom" Width="37" OpacityMask="Red" Foreground="Orange" Click="Button6_Click" Background="{StaticResource btn6_Colors}" />
+        <Rectangle Name="Rectangle3" Width="103" Margin="0,53,69,209" HorizontalAlignment="Right" Fill="{StaticResource Rectangle3_Bckgrnd}" MouseLeftButtonDown="Rectangle3_MouseLeftButtonDown" />
+
+        <!--Creates Button with background filled with a mixture of different colors-->
+
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,53,0,277" Name="Button7"  Width="37" Click="button7_Click" Background="{StaticResource btn7_Colors}"/>
+
+        <!--Creates Button with background filled with a mixture of different colors-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,0,0,242" Name="Button8" VerticalAlignment="Bottom" Width="37" Click="Button8_Click" Background="{StaticResource btn8_Colors}"/>
+
+        <!--Creates Button with background filled with a mixture of different colors-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,125,0,0" Name="Button9" VerticalAlignment="Top" Width="37" Click="Button9_Click" Background="{StaticResource btn9_Colors}"/>
+
+        <!--Creates Rectangle with background filled with an image-->
+        <Rectangle Name="Rectangle4" Margin="24,201,449,54" Fill="{StaticResource Rectangle4_Bckgrnd}" MouseLeftButtonDown="Rectangle4_MouseLeftButtonDown" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="143,201,0,0" Name="Button10" Content="" VerticalAlignment="Top" Width="37" Click="Button10_Click" Background="{StaticResource btnCherry}" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="143,0,0,91" Name="Button11" Content="" VerticalAlignment="Bottom" Width="37" Click="Button11_Click" Background="{StaticResource btn_Four_Cherry}" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="143,276,0,0" Name="Button12" Content="" VerticalAlignment="Top" Width="37" Click="Button12_Click" Background="{StaticResource btnCher}" />
+
+        <!--Creates Rectangle with background filled with an image-->
+        <Rectangle Name="Rectangle5" Margin="210,0,264,54" Height="97" VerticalAlignment="Bottom" Fill="{StaticResource Rectangle5_Bckgrnd}" MouseLeftButtonDown="Rectangle5_MouseLeftButtonDown" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button Height="31" HorizontalAlignment="Left" Margin="326,201,0,0" Name="Button13" Content="" VerticalAlignment="Top" Width="37" Background="{StaticResource Cherries}" Click="Button13_Click" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button HorizontalAlignment="Left" Margin="326,239,0,91" Name="Button14" Content="" Width="37" Background="{StaticResource Pattern}" Click="Button14_Click" />
+
+        <!--Creates Button with background filled with an image-->
+        <Button HorizontalAlignment="Left" Margin="326,276,0,54" Name="Button15" Content="" Width="37" Background="{StaticResource btn15_Bckgrnd}" Click="Button15_Click" />
+        <Rectangle Name="Rectangle6" Margin="406,201,70,54" Fill="{StaticResource Rectangle6_Bckgrnd}" MouseLeftButtonDown="Rectangle6_MouseLeftButtonDown" />
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,201,0,129" Name="Button16" Content="" Width="37" Background="{StaticResource btn16_Bckgrnd}" Click="Button16_Click" />
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,239,0,0" Name="Button17" Content="" VerticalAlignment="Top" Width="37" Background="{StaticResource btn17_Bckgrnd}" Click="Button17_Click"/>
+        <Button Height="31" HorizontalAlignment="Left" Margin="524,276,0,0" Name="Button19" Content="" VerticalAlignment="Top" Width="37" Background="{StaticResource btn18_Bckgrnd}" Click="Button19_Click" />
+        <Label Content="SolidColorBrush" Height="24" HorizontalAlignment="Left" Margin="24,23,0,0" Name="label1" VerticalAlignment="Top" Width="105" />
+        <Label Content="LinearGradientBrush" Height="24" HorizontalAlignment="Left" Margin="210,0,0,314" Name="label2" VerticalAlignment="Bottom" Width="118" />
+        <Label Content="RadialGradientBrush" Height="24" HorizontalAlignment="Left" Margin="406,23,0,0" Name="label3" VerticalAlignment="Top" Width="119" />
+        <Label Content="ImageBrush" Height="28" HorizontalAlignment="Left" Margin="24,184,0,0" Name="label4" VerticalAlignment="Top" Width="105" />
+        <Label Content="DrawingBrush" Height="25" HorizontalAlignment="Left" Margin="210,177,0,0" Name="label5" VerticalAlignment="Top" Width="108" />
+        <Label Content="VisualBrush" Height="28" HorizontalAlignment="Right" Margin="0,177,71,0" Name="label6" VerticalAlignment="Top" Width="103" />
+    </Grid>
+</Window>

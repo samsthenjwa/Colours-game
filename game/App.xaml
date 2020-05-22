@@ -1,0 +1,21 @@
+﻿
+    <Application x:Class="WPFResourceStyles.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+
+    <Application.Resources>
+        <ResourceDictionary >
+            <RadialGradientBrush x:Key="BackgroundBrush">
+                <RadialGradientBrush.GradientStops>
+                    <GradientStop Offset="0" Color="RosyBrown"/>
+                    <GradientStop Offset="1" Color="YellowGreen"/>
+                </RadialGradientBrush.GradientStops>
+            </RadialGradientBrush>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="BackGroundBrushes.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+
